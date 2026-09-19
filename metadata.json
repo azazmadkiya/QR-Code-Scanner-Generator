@@ -1,0 +1,6 @@
+{
+  "name": "QR Code",
+  "description": "Offline QR code scanner and generator with custom styling, gallery download, logo overlays, AES-256 encryption, PDF/PNG export, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
